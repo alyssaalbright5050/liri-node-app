@@ -13,11 +13,11 @@ Open your terminal
 Navigate to the folder that contains liri.js
 Run the command:
 * node liri.js concert-this <name of artist or band>
-  or
+  
 * node liri.js movie-this <name of movie>
-  or
+  
 * node liri.js spotify-this-song <name of song>
-  or
+  
 * node liri.js do-what-it-says
 
 
