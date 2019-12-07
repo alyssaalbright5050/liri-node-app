@@ -1,3 +1,3 @@
-#liri-node-app
+# liri-node-app
 
 ![](screenshots/concert-this)
