@@ -9,9 +9,9 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 * do-what-it-says.
 
 Step-by-step instructions:
-Open your terminal
-Navigate to the folder that contains liri.js
-Run the command:
+1. Open your terminal
+2. Navigate to the folder that contains liri.js
+3. Run the command:
 * node liri.js concert-this <name of artist or band>
   
 * node liri.js movie-this <name of movie>
