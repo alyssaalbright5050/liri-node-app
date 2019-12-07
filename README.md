@@ -1,3 +1,3 @@
 # liri-node-app
 
-![](screenshots/concert-this)
+![](screenshots/concert-this.png)
