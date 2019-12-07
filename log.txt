@@ -82,3 +82,1877 @@ preview song: null
 -----------------------
 If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
 It's on Netflix!
+**********EVENT INFO*********
+0
+Name of the Venue: ゼビオアリーナ仙台
+Venue Location: 仙台市
+Date of the Event: 2019-12-08T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: 東京ドーム
+Venue Location: 文京区
+Date of the Event: 2019-12-11T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: 盛岡タカヤアリーナ（盛岡市総合アリーナ）
+Venue Location: 盛岡市
+Date of the Event: 2019-12-14T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: 京セラドーム大阪
+Venue Location: 大阪市
+Date of the Event: 2019-12-17T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Nagoya Aichiken Gymnasium
+Venue Location: Nagoya
+Date of the Event: 2019-12-19T18:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: SNHU Arena
+Venue Location: Manchester
+Date of the Event: 2020-02-01T19:30:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: PPL Center
+Venue Location: Allentown
+Date of the Event: 2020-02-04T19:30:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2020-02-05T19:30:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: John Paul Jones Arena
+Venue Location: Charlottesville
+Date of the Event: 2020-02-07T19:30:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Greensboro Coliseum Complex
+Venue Location: Greensboro
+Date of the Event: 2020-02-08T19:30:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Colonial Life Arena
+Venue Location: Columbia
+Date of the Event: 2020-02-11T19:30:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Rupp Arena
+Venue Location: Lexington
+Date of the Event: 2020-02-13T19:30:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Peoria Civic Center
+Venue Location: Peoria
+Date of the Event: 2020-02-15T19:30:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Allen County War Memorial Coliseum
+Venue Location: Fort Wayne
+Date of the Event: 2020-02-16T19:30:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: JQH Arena
+Venue Location: Springfield
+Date of the Event: 2020-02-18T19:30:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Intrust Bank Arena
+Venue Location: Wichita
+Date of the Event: 2020-02-19T19:30:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Tyson Events Center
+Venue Location: Sioux City
+Date of the Event: 2020-02-21T19:30:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Alerus Center
+Venue Location: Grand Forks
+Date of the Event: 2020-02-22T19:30:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2020-02-24T19:30:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Pinnacle Bank Arena
+Venue Location: Lincoln
+Date of the Event: 2020-02-25T19:30:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Laughlin Event Center
+Venue Location: Laughlin
+Date of the Event: 2020-02-29T19:30:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Rabobank Arena, Theater and Convention Center
+Venue Location: Bakersfield
+Date of the Event: 2020-03-02T19:30:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: End of the Road World Tour - Los Angeles, CA
+Venue Location: Los Angeles
+Date of the Event: 2020-03-04T19:30:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Oakland Arena
+Venue Location: Oakland
+Date of the Event: 2020-03-06T19:30:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Don Haskins Center
+Venue Location: El Paso
+Date of the Event: 2020-03-09T19:30:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: United Supermarkets Arena
+Venue Location: Lubbock
+Date of the Event: 2020-03-10T19:30:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: BOK Center
+Venue Location: Tulsa
+Date of the Event: 2020-03-12T19:30:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: CAJUNDOME
+Venue Location: Lafayette
+Date of the Event: 2020-03-14T19:30:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Mississippi Coast Coliseum and Convention Center
+Venue Location: Biloxi
+Date of the Event: 2020-03-15T19:30:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Estadio Magico Gonzalez
+Venue Location: San Salvador
+Date of the Event: 2020-04-24T19:30:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Estadio Nacional
+Venue Location: San Jose
+Date of the Event: 2020-04-28T19:30:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Movistar Arena
+Venue Location: Bogotá
+Date of the Event: 2020-04-30T19:30:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Arena Costa Verde
+Venue Location: Lima
+Date of the Event: 2020-05-02T19:30:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Argentine Polo Association
+Venue Location: Bwp
+Date of the Event: 2020-05-09T19:30:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Anfiteatro Beira Rio
+Venue Location: Porto Alegre
+Date of the Event: 2020-05-12T19:30:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Pedreira Paulo Leminsky
+Venue Location: Curitiba
+Date of the Event: 2020-05-14T19:30:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Allianz Parque
+Venue Location: Sao Paulo
+Date of the Event: 2020-05-16T19:30:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Arena Eurobike
+Venue Location: Ribeirao Preto
+Date of the Event: 2020-05-17T19:30:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Estadio Parque do Sabia
+Venue Location: Uberlandia
+Date of the Event: 2020-05-19T19:30:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Nilson Nelson
+Venue Location: Brasília
+Date of the Event: 2020-05-21T19:30:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Accorhotels Arena
+Venue Location: Paris
+Date of the Event: 2020-06-09T20:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: Donington Park Circuit
+Venue Location: Derby
+Date of the Event: 2020-06-12T19:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Download Festival
+Venue Location: Derby
+Date of the Event: 2020-06-12T19:30:00
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: Westfalenhalle 1
+Venue Location: Dortmund
+Date of the Event: 2020-06-14T20:00:00
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: Barclaycard Arena Hamburg
+Venue Location: Hamburg
+Date of the Event: 2020-06-15T20:00:00
+*****************************
+**********EVENT INFO*********
+45
+Name of the Venue: Copenhell Festival
+Venue Location: Copenhagen
+Date of the Event: 2020-06-18T19:30:00
+*****************************
+**********EVENT INFO*********
+46
+Name of the Venue: Osterhus Arena
+Venue Location: Sandnes
+Date of the Event: 2020-06-20T19:30:00
+*****************************
+**********EVENT INFO*********
+47
+Name of the Venue: Zalgirls Arena
+Venue Location: Kaunas
+Date of the Event: 2020-06-29T19:30:00
+*****************************
+**********EVENT INFO*********
+48
+Name of the Venue: O2 Arena
+Venue Location: Prague
+Date of the Event: 2020-07-01T19:30:00
+*****************************
+**********EVENT INFO*********
+49
+Name of the Venue: Rockfest
+Venue Location: Barcelona
+Date of the Event: 2020-07-04T19:30:00
+*****************************
+**********EVENT INFO*********
+50
+Name of the Venue: WiZink Center
+Venue Location: Madrid
+Date of the Event: 2020-07-05T20:00:00
+*****************************
+**********EVENT INFO*********
+51
+Name of the Venue: Altice Arena
+Venue Location: Lisboa
+Date of the Event: 2020-07-07T19:30:00
+*****************************
+**********EVENT INFO*********
+52
+Name of the Venue: Festhalle Messe Frankfurt GmbH
+Venue Location: Frankfurt Am Main
+Date of the Event: 2020-07-10T20:00:00
+*****************************
+**********EVENT INFO*********
+53
+Name of the Venue: Hanns-Martin-Schleyer-Halle
+Venue Location: Stuttgart
+Date of the Event: 2020-07-11T20:00:00
+*****************************
+**********EVENT INFO*********
+54
+Name of the Venue: Arena di Verona
+Venue Location: Verona
+Date of the Event: 2020-07-13T19:30:00
+*****************************
+**********EVENT INFO*********
+55
+Name of the Venue: Arena Gliwice
+Venue Location: Gliwice
+Date of the Event: 2020-07-15T19:30:00
+*****************************
+**********EVENT INFO*********
+56
+Name of the Venue: Budapest Arena
+Venue Location: Budapest
+Date of the Event: 2020-07-16T19:30:00
+*****************************
+**********EVENT INFO*********
+57
+Name of the Venue: Armeec Arena
+Venue Location: Sofia
+Date of the Event: 2020-07-18T19:30:00
+*****************************
+**********EVENT INFO*********
+58
+Name of the Venue: Ticketpro Dome
+Venue Location: Johannesburg
+Date of the Event: 2020-07-25T19:30:00
+*****************************
+**********EVENT INFO*********
+59
+Name of the Venue: KeyBank Pavilion
+Venue Location: Burgettstown
+Date of the Event: 2020-08-28T19:30:00
+*****************************
+**********EVENT INFO*********
+60
+Name of the Venue: Jim Whelan Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2020-08-29T19:30:00
+*****************************
+**********EVENT INFO*********
+61
+Name of the Venue: CMAC/Marvin Sands Performing Arts Center
+Venue Location: Canandaigua
+Date of the Event: 2020-08-31T19:30:00
+*****************************
+**********EVENT INFO*********
+62
+Name of the Venue: Darling's Waterfront Pavilion
+Venue Location: Bangor
+Date of the Event: 2020-09-03T19:30:00
+*****************************
+**********EVENT INFO*********
+63
+Name of the Venue: The Xfinity Center
+Venue Location: Mansfield
+Date of the Event: 2020-09-04T19:30:00
+*****************************
+**********EVENT INFO*********
+64
+Name of the Venue: Xfinity Theatre
+Venue Location: Hartford
+Date of the Event: 2020-09-05T19:30:00
+*****************************
+**********EVENT INFO*********
+65
+Name of the Venue: Cellairis Amphitheatre at Lakewood
+Venue Location: Atlanta
+Date of the Event: 2020-09-08T19:30:00
+*****************************
+**********EVENT INFO*********
+66
+Name of the Venue: Coastal Credit Union Music Park At Walnut Creek
+Venue Location: Raleigh
+Date of the Event: 2020-09-09T19:30:00
+*****************************
+**********EVENT INFO*********
+67
+Name of the Venue: DTE Energy Music Theatre
+Venue Location: Clarkston
+Date of the Event: 2020-09-11T19:30:00
+*****************************
+**********EVENT INFO*********
+68
+Name of the Venue: Hollywood Casino Amphitheatre
+Venue Location: Tinley Park
+Date of the Event: 2020-09-12T19:30:00
+*****************************
+**********EVENT INFO*********
+69
+Name of the Venue: WSU Nutter Center
+Venue Location: Fairborn
+Date of the Event: 2020-09-14T19:30:00
+*****************************
+**********EVENT INFO*********
+70
+Name of the Venue: American Family Insurance Amphitheater
+Venue Location: Milwaukee
+Date of the Event: 2020-09-15T19:30:00
+*****************************
+**********EVENT INFO*********
+71
+Name of the Venue: Gorge Amphitheatre
+Venue Location: George
+Date of the Event: 2020-09-19T19:30:00
+*****************************
+**********EVENT INFO*********
+72
+Name of the Venue: Sunlight Supply Amphitheater
+Venue Location: Ridgefield
+Date of the Event: 2020-09-20T19:30:00
+*****************************
+**********EVENT INFO*********
+73
+Name of the Venue: ExtraMile Arena
+Venue Location: Boise
+Date of the Event: 2020-09-22T19:30:00
+*****************************
+**********EVENT INFO*********
+74
+Name of the Venue: USANA Amphitheatre
+Venue Location: West Valley City
+Date of the Event: 2020-09-24T19:30:00
+*****************************
+**********EVENT INFO*********
+75
+Name of the Venue: North Island Credit Union Amphitheatre
+Venue Location: Chula Vista
+Date of the Event: 2020-09-27T19:30:00
+*****************************
+**********EVENT INFO*********
+76
+Name of the Venue: AK Chin Pavilion
+Venue Location: Phoenix
+Date of the Event: 2020-09-29T19:30:00
+*****************************
+**********EVENT INFO*********
+77
+Name of the Venue: Austin360 Amphitheater
+Venue Location: Austin
+Date of the Event: 2020-10-01T19:30:00
+*****************************
+**********EVENT INFO*********
+78
+Name of the Venue: Dickies Arena
+Venue Location: Fort Worth
+Date of the Event: 2020-10-02T19:30:00
+*****************************
+**********SONG INFO*********
+0
+song name: What We Talkin' About
+preview song: null
+album: The Blueprint 3
+artist(s): JAY-Z
+*****************************
+**********SONG INFO*********
+1
+song name: What We Talkin' About
+preview song: null
+album: The Blueprint 3
+artist(s): JAY-Z
+*****************************
+**********SONG INFO*********
+2
+song name: Ransom
+preview song: null
+album: We Love You Tecca
+artist(s): Lil Tecca
+*****************************
+**********SONG INFO*********
+3
+song name: bad guy
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+4
+song name: Everything We Need
+preview song: null
+album: JESUS IS KING
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+5
+song name: when the party's over
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+6
+song name: Did It Again
+preview song: null
+album: We Love You Tecca
+artist(s): Lil Tecca
+*****************************
+**********SONG INFO*********
+7
+song name: Ransom (with Juice WRLD) - Remix
+preview song: null
+album: We Love You Tecca
+artist(s): Lil Tecca
+*****************************
+**********SONG INFO*********
+8
+song name: Love Me
+preview song: null
+album: We Love You Tecca
+artist(s): Lil Tecca
+*****************************
+**********SONG INFO*********
+9
+song name: The Night We Met
+preview song: https://p.scdn.co/mp3-preview/1c0da00b5c95a1a6c9dfc05b14a1a628a6e0ad73?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Strange Trails
+artist(s): Lord Huron
+*****************************
+**********SONG INFO*********
+10
+song name: bury a friend
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+11
+song name: i love you
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+12
+song name: wish you were gay
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+13
+song name: Mixed Personalities (feat. Kanye West)
+preview song: https://p.scdn.co/mp3-preview/0bec1241dc853706ed7c16650063e2980f15be61?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: We All Shine
+artist(s): YNW Melly
+*****************************
+**********SONG INFO*********
+14
+song name: We Were
+preview song: null
+album: We Were
+artist(s): Keith Urban
+*****************************
+**********SONG INFO*********
+15
+song name: all the good girls go to hell
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+16
+song name: you should see me in a crown
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+17
+song name: Nights Like This (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/becd086dc3c299fa16cb92070c91fe8d6e9f9a5e?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: While We Wait
+artist(s): Kehlani
+*****************************
+**********SONG INFO*********
+18
+song name: I'm Yours
+preview song: https://p.scdn.co/mp3-preview/c58f1bc9160754337b858a4eb824a6ac2321041d?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: We Sing. We Dance. We Steal Things.
+artist(s): Jason Mraz
+*****************************
+**********SONG INFO*********
+19
+song name: What Am I
+preview song: https://p.scdn.co/mp3-preview/07c61d627e0537fa0d7f11bbab0c763bd9165d1b?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: What Am I
+artist(s): Why Don't We
+*****************************
+**********SONG INFO*********
+0
+song name: Drip Too Hard (Lil Baby & Gunna)
+preview song: null
+album: Drip Harder
+artist(s): Lil Baby
+*****************************
+**********SONG INFO*********
+1
+song name: Too Good At Goodbyes
+preview song: null
+album: The Thrill Of It All (Special Edition)
+artist(s): Sam Smith
+*****************************
+**********SONG INFO*********
+2
+song name: Beautiful Crazy
+preview song: https://p.scdn.co/mp3-preview/46f30246879a353edb15e19f91eb63376053cace?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: This One's for You Too (Deluxe Edition)
+artist(s): Luke Combs
+*****************************
+**********SONG INFO*********
+3
+song name: Too Young
+preview song: null
+album: Stoney (Deluxe)
+artist(s): Post Malone
+*****************************
+**********SONG INFO*********
+4
+song name: She Got the Best of Me
+preview song: https://p.scdn.co/mp3-preview/2c94e74aa5122c6e49cfbf85b801d5ee843d2e23?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: This One's for You Too (Deluxe Edition)
+artist(s): Luke Combs
+*****************************
+**********SONG INFO*********
+5
+song name: Freestyle
+preview song: null
+album: Too Hard
+artist(s): Lil Baby
+*****************************
+**********SONG INFO*********
+6
+song name: Me Too
+preview song: https://p.scdn.co/mp3-preview/b9d496524fa3f366d81e72ca4529e54d5e0ed3a7?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Luca Brasi 3
+artist(s): Kevin Gates
+*****************************
+**********SONG INFO*********
+7
+song name: Love You Too Late
+preview song: https://p.scdn.co/mp3-preview/7dbab54b94e1fe1f198e9f9b1eac8aeb1005cbf6?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: All of It
+artist(s): Cole Swindell
+*****************************
+**********SONG INFO*********
+8
+song name: In Too Deep
+preview song: null
+album: All Killer, No Filler
+artist(s): Sum 41
+*****************************
+**********SONG INFO*********
+9
+song name: Talk Too Much
+preview song: https://p.scdn.co/mp3-preview/77993ef82505877038daf3671ec968803871884a?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: How Will You Know If You Never Try
+artist(s): COIN
+*****************************
+**********SONG INFO*********
+10
+song name: Too Good
+preview song: null
+album: Views
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+11
+song name: Too Many Years
+preview song: https://p.scdn.co/mp3-preview/a874aab078c11f84435100b70f41b090a59fe166?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Lil Big Pac
+artist(s): Kodak Black
+*****************************
+**********SONG INFO*********
+12
+song name: Never Too Late
+preview song: https://p.scdn.co/mp3-preview/d4674d5eedb8eee7f115838954cbd0016cc0e701?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: One-X
+artist(s): Three Days Grace
+*****************************
+**********SONG INFO*********
+13
+song name: Me Too
+preview song: https://p.scdn.co/mp3-preview/8ea7db85c52756ee3c7da4ec9f89b40ba4b20a2e?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Thank You (Deluxe Version)
+artist(s): Meghan Trainor
+*****************************
+**********SONG INFO*********
+14
+song name: sex
+preview song: null
+album: i think you think too much of me
+artist(s): EDEN
+*****************************
+**********SONG INFO*********
+15
+song name: I'm Still Standing
+preview song: null
+album: Too Low For Zero
+artist(s): Elton John
+*****************************
+**********SONG INFO*********
+16
+song name: One Too Many
+preview song: null
+album: One Too Many
+artist(s): FLETCHER
+*****************************
+**********SONG INFO*********
+17
+song name: Too Much To Ask
+preview song: null
+album: Flicker (Deluxe)
+artist(s): Niall Horan
+*****************************
+**********SONG INFO*********
+18
+song name: This Is Gospel
+preview song: https://p.scdn.co/mp3-preview/bcb98f7e8f0c78c5ad2bff0b10be97aa82453bee?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Too Weird To Live, Too Rare To Die!
+artist(s): Panic! At The Disco
+*****************************
+**********SONG INFO*********
+19
+song name: I'd Be Jealous Too
+preview song: https://p.scdn.co/mp3-preview/3508c22f814eacb70d4d8fc1a479a2d576636e4d?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Current Mood
+artist(s): Dustin Lynch
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: ゼビオアリーナ仙台
+Venue Location: 仙台市
+Date of the Event: 2019-12-08T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: 東京ドーム
+Venue Location: 文京区
+Date of the Event: 2019-12-11T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: 盛岡タカヤアリーナ（盛岡市総合アリーナ）
+Venue Location: 盛岡市
+Date of the Event: 2019-12-14T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: 京セラドーム大阪
+Venue Location: 大阪市
+Date of the Event: 2019-12-17T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Nagoya Aichiken Gymnasium
+Venue Location: Nagoya
+Date of the Event: 2019-12-19T18:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: SNHU Arena
+Venue Location: Manchester
+Date of the Event: 2020-02-01T19:30:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: PPL Center
+Venue Location: Allentown
+Date of the Event: 2020-02-04T19:30:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2020-02-05T19:30:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: John Paul Jones Arena
+Venue Location: Charlottesville
+Date of the Event: 2020-02-07T19:30:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Greensboro Coliseum Complex
+Venue Location: Greensboro
+Date of the Event: 2020-02-08T19:30:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Colonial Life Arena
+Venue Location: Columbia
+Date of the Event: 2020-02-11T19:30:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Rupp Arena
+Venue Location: Lexington
+Date of the Event: 2020-02-13T19:30:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Peoria Civic Center
+Venue Location: Peoria
+Date of the Event: 2020-02-15T19:30:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Allen County War Memorial Coliseum
+Venue Location: Fort Wayne
+Date of the Event: 2020-02-16T19:30:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: JQH Arena
+Venue Location: Springfield
+Date of the Event: 2020-02-18T19:30:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Intrust Bank Arena
+Venue Location: Wichita
+Date of the Event: 2020-02-19T19:30:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Tyson Events Center
+Venue Location: Sioux City
+Date of the Event: 2020-02-21T19:30:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Alerus Center
+Venue Location: Grand Forks
+Date of the Event: 2020-02-22T19:30:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2020-02-24T19:30:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Pinnacle Bank Arena
+Venue Location: Lincoln
+Date of the Event: 2020-02-25T19:30:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Laughlin Event Center
+Venue Location: Laughlin
+Date of the Event: 2020-02-29T19:30:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Rabobank Arena, Theater and Convention Center
+Venue Location: Bakersfield
+Date of the Event: 2020-03-02T19:30:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: End of the Road World Tour - Los Angeles, CA
+Venue Location: Los Angeles
+Date of the Event: 2020-03-04T19:30:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Oakland Arena
+Venue Location: Oakland
+Date of the Event: 2020-03-06T19:30:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Don Haskins Center
+Venue Location: El Paso
+Date of the Event: 2020-03-09T19:30:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: United Supermarkets Arena
+Venue Location: Lubbock
+Date of the Event: 2020-03-10T19:30:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: BOK Center
+Venue Location: Tulsa
+Date of the Event: 2020-03-12T19:30:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: CAJUNDOME
+Venue Location: Lafayette
+Date of the Event: 2020-03-14T19:30:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Mississippi Coast Coliseum and Convention Center
+Venue Location: Biloxi
+Date of the Event: 2020-03-15T19:30:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Estadio Magico Gonzalez
+Venue Location: San Salvador
+Date of the Event: 2020-04-24T19:30:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Estadio Nacional
+Venue Location: San Jose
+Date of the Event: 2020-04-28T19:30:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Movistar Arena
+Venue Location: Bogotá
+Date of the Event: 2020-04-30T19:30:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Arena Costa Verde
+Venue Location: Lima
+Date of the Event: 2020-05-02T19:30:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Argentine Polo Association
+Venue Location: Bwp
+Date of the Event: 2020-05-09T19:30:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Anfiteatro Beira Rio
+Venue Location: Porto Alegre
+Date of the Event: 2020-05-12T19:30:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Pedreira Paulo Leminsky
+Venue Location: Curitiba
+Date of the Event: 2020-05-14T19:30:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Allianz Parque
+Venue Location: Sao Paulo
+Date of the Event: 2020-05-16T19:30:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Arena Eurobike
+Venue Location: Ribeirao Preto
+Date of the Event: 2020-05-17T19:30:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Estadio Parque do Sabia
+Venue Location: Uberlandia
+Date of the Event: 2020-05-19T19:30:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Nilson Nelson
+Venue Location: Brasília
+Date of the Event: 2020-05-21T19:30:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Accorhotels Arena
+Venue Location: Paris
+Date of the Event: 2020-06-09T20:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: Donington Park Circuit
+Venue Location: Derby
+Date of the Event: 2020-06-12T19:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Download Festival
+Venue Location: Derby
+Date of the Event: 2020-06-12T19:30:00
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: Westfalenhalle 1
+Venue Location: Dortmund
+Date of the Event: 2020-06-14T20:00:00
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: Barclaycard Arena Hamburg
+Venue Location: Hamburg
+Date of the Event: 2020-06-15T20:00:00
+*****************************
+**********EVENT INFO*********
+45
+Name of the Venue: Copenhell Festival
+Venue Location: Copenhagen
+Date of the Event: 2020-06-18T19:30:00
+*****************************
+**********EVENT INFO*********
+46
+Name of the Venue: Osterhus Arena
+Venue Location: Sandnes
+Date of the Event: 2020-06-20T19:30:00
+*****************************
+**********EVENT INFO*********
+47
+Name of the Venue: Zalgirls Arena
+Venue Location: Kaunas
+Date of the Event: 2020-06-29T19:30:00
+*****************************
+**********EVENT INFO*********
+48
+Name of the Venue: O2 Arena
+Venue Location: Prague
+Date of the Event: 2020-07-01T19:30:00
+*****************************
+**********EVENT INFO*********
+49
+Name of the Venue: Rockfest
+Venue Location: Barcelona
+Date of the Event: 2020-07-04T19:30:00
+*****************************
+**********EVENT INFO*********
+50
+Name of the Venue: WiZink Center
+Venue Location: Madrid
+Date of the Event: 2020-07-05T20:00:00
+*****************************
+**********EVENT INFO*********
+51
+Name of the Venue: Altice Arena
+Venue Location: Lisboa
+Date of the Event: 2020-07-07T19:30:00
+*****************************
+**********EVENT INFO*********
+52
+Name of the Venue: Festhalle Messe Frankfurt GmbH
+Venue Location: Frankfurt Am Main
+Date of the Event: 2020-07-10T20:00:00
+*****************************
+**********EVENT INFO*********
+53
+Name of the Venue: Hanns-Martin-Schleyer-Halle
+Venue Location: Stuttgart
+Date of the Event: 2020-07-11T20:00:00
+*****************************
+**********EVENT INFO*********
+54
+Name of the Venue: Arena di Verona
+Venue Location: Verona
+Date of the Event: 2020-07-13T19:30:00
+*****************************
+**********EVENT INFO*********
+55
+Name of the Venue: Arena Gliwice
+Venue Location: Gliwice
+Date of the Event: 2020-07-15T19:30:00
+*****************************
+**********EVENT INFO*********
+56
+Name of the Venue: Budapest Arena
+Venue Location: Budapest
+Date of the Event: 2020-07-16T19:30:00
+*****************************
+**********EVENT INFO*********
+57
+Name of the Venue: Armeec Arena
+Venue Location: Sofia
+Date of the Event: 2020-07-18T19:30:00
+*****************************
+**********EVENT INFO*********
+58
+Name of the Venue: Ticketpro Dome
+Venue Location: Johannesburg
+Date of the Event: 2020-07-25T19:30:00
+*****************************
+**********EVENT INFO*********
+59
+Name of the Venue: KeyBank Pavilion
+Venue Location: Burgettstown
+Date of the Event: 2020-08-28T19:30:00
+*****************************
+**********EVENT INFO*********
+60
+Name of the Venue: Jim Whelan Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2020-08-29T19:30:00
+*****************************
+**********EVENT INFO*********
+61
+Name of the Venue: CMAC/Marvin Sands Performing Arts Center
+Venue Location: Canandaigua
+Date of the Event: 2020-08-31T19:30:00
+*****************************
+**********EVENT INFO*********
+62
+Name of the Venue: Darling's Waterfront Pavilion
+Venue Location: Bangor
+Date of the Event: 2020-09-03T19:30:00
+*****************************
+**********EVENT INFO*********
+63
+Name of the Venue: The Xfinity Center
+Venue Location: Mansfield
+Date of the Event: 2020-09-04T19:30:00
+*****************************
+**********EVENT INFO*********
+64
+Name of the Venue: Xfinity Theatre
+Venue Location: Hartford
+Date of the Event: 2020-09-05T19:30:00
+*****************************
+**********EVENT INFO*********
+65
+Name of the Venue: Cellairis Amphitheatre at Lakewood
+Venue Location: Atlanta
+Date of the Event: 2020-09-08T19:30:00
+*****************************
+**********EVENT INFO*********
+66
+Name of the Venue: Coastal Credit Union Music Park At Walnut Creek
+Venue Location: Raleigh
+Date of the Event: 2020-09-09T19:30:00
+*****************************
+**********EVENT INFO*********
+67
+Name of the Venue: DTE Energy Music Theatre
+Venue Location: Clarkston
+Date of the Event: 2020-09-11T19:30:00
+*****************************
+**********EVENT INFO*********
+68
+Name of the Venue: Hollywood Casino Amphitheatre
+Venue Location: Tinley Park
+Date of the Event: 2020-09-12T19:30:00
+*****************************
+**********EVENT INFO*********
+69
+Name of the Venue: WSU Nutter Center
+Venue Location: Fairborn
+Date of the Event: 2020-09-14T19:30:00
+*****************************
+**********EVENT INFO*********
+70
+Name of the Venue: American Family Insurance Amphitheater
+Venue Location: Milwaukee
+Date of the Event: 2020-09-15T19:30:00
+*****************************
+**********EVENT INFO*********
+71
+Name of the Venue: Gorge Amphitheatre
+Venue Location: George
+Date of the Event: 2020-09-19T19:30:00
+*****************************
+**********EVENT INFO*********
+72
+Name of the Venue: Sunlight Supply Amphitheater
+Venue Location: Ridgefield
+Date of the Event: 2020-09-20T19:30:00
+*****************************
+**********EVENT INFO*********
+73
+Name of the Venue: ExtraMile Arena
+Venue Location: Boise
+Date of the Event: 2020-09-22T19:30:00
+*****************************
+**********EVENT INFO*********
+74
+Name of the Venue: USANA Amphitheatre
+Venue Location: West Valley City
+Date of the Event: 2020-09-24T19:30:00
+*****************************
+**********EVENT INFO*********
+75
+Name of the Venue: North Island Credit Union Amphitheatre
+Venue Location: Chula Vista
+Date of the Event: 2020-09-27T19:30:00
+*****************************
+**********EVENT INFO*********
+76
+Name of the Venue: AK Chin Pavilion
+Venue Location: Phoenix
+Date of the Event: 2020-09-29T19:30:00
+*****************************
+**********EVENT INFO*********
+77
+Name of the Venue: Austin360 Amphitheater
+Venue Location: Austin
+Date of the Event: 2020-10-01T19:30:00
+*****************************
+**********EVENT INFO*********
+78
+Name of the Venue: Dickies Arena
+Venue Location: Fort Worth
+Date of the Event: 2020-10-02T19:30:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2020-05-27T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: BB&T Center
+Venue Location: Sunrise
+Date of the Event: 2020-05-29T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: MIDFLORIDA Credit Union Amphitheatre
+Venue Location: Tampa
+Date of the Event: 2020-05-31T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: PNC Music Pavilion
+Venue Location: Charlotte
+Date of the Event: 2020-06-02T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Riverbend Music Center
+Venue Location: Cincinnati
+Date of the Event: 2020-06-04T19:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Hersheypark Stadium
+Venue Location: Hershey
+Date of the Event: 2020-06-06T19:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: KeyBank Pavilion
+Venue Location: Burgettstown
+Date of the Event: 2020-06-11T19:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Darling's Waterfront Pavilion
+Venue Location: Bangor
+Date of the Event: 2020-06-13T19:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Bell Centre
+Venue Location: Montreal
+Date of the Event: 2020-06-16T19:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: FirstOntario Centre
+Venue Location: Hamilton
+Date of the Event: 2020-06-18T19:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Mohegan Sun
+Venue Location: Montville
+Date of the Event: 2020-06-20T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2020-06-22T19:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Hollywood Casino Amphitheatre
+Venue Location: Maryland Heights
+Date of the Event: 2020-06-24T19:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Sprint Center
+Venue Location: Kansas City
+Date of the Event: 2020-06-26T19:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Wells Fargo Arena
+Venue Location: Des Moines
+Date of the Event: 2020-06-28T19:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Summerfest
+Venue Location: Milwaukee
+Date of the Event: 2020-07-01T19:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2020-07-03T19:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Rogers Place
+Venue Location: Edmonton
+Date of the Event: 2020-07-07T19:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Rogers Arena
+Venue Location: Vancouver
+Date of the Event: 2020-07-09T19:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2020-07-11T19:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Moda Center
+Venue Location: Portland
+Date of the Event: 2020-07-15T19:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2020-07-17T19:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: AK Chin Pavilion
+Venue Location: Phoenix
+Date of the Event: 2020-07-23T19:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Shoreline Amphitheatre
+Venue Location: Mountain View
+Date of the Event: 2020-07-25T19:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Hollywood Bowl
+Venue Location: Los Angeles
+Date of the Event: 2020-07-27T19:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: North Island Credit Union Ampitheatre
+Venue Location: Chula Vista
+Date of the Event: 2020-07-29T19:00:10
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: MGM Grand Garden Arena
+Venue Location: Las Vegas
+Date of the Event: 2020-07-31T19:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: Utilita Arena
+Venue Location: Newcastle Upon Tyne
+Date of the Event: 2020-10-23T19:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: The SSE Hydro
+Venue Location: Glasgow
+Date of the Event: 2020-10-25T19:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2020-10-28T19:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Resorts World Arena
+Venue Location: Birmingham
+Date of the Event: 2020-10-31T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Manchester Arena
+Venue Location: Manchester
+Date of the Event: 2020-11-02T19:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2020-11-05T19:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Motorpoint Arena Nottingham
+Venue Location: Nottingham
+Date of the Event: 2020-11-08T19:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Westfalenpark Dortmund
+Venue Location: Do
+Date of the Event: 2020-11-11T19:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: O2 Arena
+Venue Location: Prague
+Date of the Event: 2020-11-13T19:30:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Unipol Arena
+Venue Location: Casalecchio Di Reno
+Date of the Event: 2020-11-19T19:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: WiZink Center
+Venue Location: Madrid
+Date of the Event: 2020-11-22T19:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Hallenstadion
+Venue Location: Zürich
+Date of the Event: 2020-11-24T19:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Kleine Olympiahalle München
+Venue Location: München
+Date of the Event: 2020-11-26T19:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: SAP Arena
+Venue Location: Ma
+Date of the Event: 2020-11-28T19:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: Parkhaus der Mercedes-Benz-Arena
+Venue Location: Berlin
+Date of the Event: 2020-11-30T19:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Barclaycard Arena Hamburg
+Venue Location: Hamburg
+Date of the Event: 2020-12-03T19:00:00
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: Friends Arena
+Venue Location: Rasunda
+Date of the Event: 2020-12-05T19:00:00
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: Hartwall Arena
+Venue Location: Hki
+Date of the Event: 2020-12-07T19:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Estadio Nacional Julio Martínez Prádanos
+Venue Location: Ñuñoa
+Date of the Event: 2020-04-15T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Argentine Polo Association
+Venue Location: Bwp
+Date of the Event: 2020-04-18T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Arena do Grêmio
+Venue Location: Porto Alegre
+Date of the Event: 2020-04-21T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Arena do Grêmio
+Venue Location: Porto Alegre
+Date of the Event: 2020-04-23T20:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Casa da Fazenda Morumbi
+Venue Location: São Paulo
+Date of the Event: 2020-04-25T20:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Mineirão
+Venue Location: Belo Horizonte
+Date of the Event: 2020-04-27T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Charlotte Motor Speedway
+Venue Location: Concord
+Date of the Event: 2020-05-01T19:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Charlotte Motor Speedway
+Venue Location: Concord
+Date of the Event: 2020-05-03T23:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Daytona International Speedway
+Venue Location: Daytona Beach
+Date of the Event: 2020-05-08T19:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Daytona International Speedway
+Venue Location: Daytona Beach
+Date of the Event: 2020-05-10T23:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: MAPFRE Stadium
+Venue Location: Columbus
+Date of the Event: 2020-05-15T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: MAPFRE Stadium
+Venue Location: Columbus
+Date of the Event: 2020-05-17T19:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Kentucky Kingdom
+Venue Location: Louisville
+Date of the Event: 2020-09-18T19:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Kentucky Kingdom
+Venue Location: Louisville
+Date of the Event: 2020-09-20T19:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Discovery Park
+Venue Location: Sacramento
+Date of the Event: 2020-10-09T19:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Discovery Park
+Venue Location: Sacramento
+Date of the Event: 2020-10-11T23:00:00
+*****************************
+**********SONG INFO*********
+0
+song name: Hero
+preview song: https://p.scdn.co/mp3-preview/a86af6cfc8543b4acfdb57134147067550b1ef9f?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Awake
+artist(s): Skillet
+*****************************
+**********SONG INFO*********
+1
+song name: Juke Box Hero
+preview song: https://p.scdn.co/mp3-preview/596f26d42b94be4ef06d7b63f4a02cbfd3e40c48?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: 4 (Expanded)
+artist(s): Foreigner
+*****************************
+**********SONG INFO*********
+2
+song name: I Could Use a Love Song
+preview song: https://p.scdn.co/mp3-preview/f03fca82860612598d076212ee8d25e5fb4c1629?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: HERO (Deluxe Edition)
+artist(s): Maren Morris
+*****************************
+**********SONG INFO*********
+3
+song name: My Hero
+preview song: https://p.scdn.co/mp3-preview/ea1fb01ec4f28f204b1591c2953d1f6c886941e2?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: The Colour And The Shape
+artist(s): Foo Fighters
+*****************************
+**********SONG INFO*********
+4
+song name: Neighborhood Hero
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+*****************************
+**********SONG INFO*********
+5
+song name: My Church
+preview song: https://p.scdn.co/mp3-preview/93d7324822b2739d82600d3e85c0ab0d81291d12?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: HERO (Deluxe Edition)
+artist(s): Maren Morris
+*****************************
+**********SONG INFO*********
+6
+song name: Hero
+preview song: null
+album: Escape
+artist(s): Enrique Iglesias
+*****************************
+**********SONG INFO*********
+7
+song name: Hero
+preview song: https://p.scdn.co/mp3-preview/cc03494b6954237706d6f2ac7b9ce189014f840a?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Music Box
+artist(s): Mariah Carey
+*****************************
+**********SONG INFO*********
+8
+song name: I Want a Hippopotamus for Christmas (Hippo the Hero)
+preview song: https://p.scdn.co/mp3-preview/485a81bbbf6407596ccf17e510bf7a9b42ae0aa6?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: I Want a Hippopotamus for Christmas (Hippo the Hero)
+artist(s): Gayla Peevey
+*****************************
+**********SONG INFO*********
+9
+song name: Zero To Hero
+preview song: null
+album: Hercules (Original Motion Picture Soundtrack)
+artist(s): Chorus - Hercules
+*****************************
+**********SONG INFO*********
+10
+song name: Hero
+preview song: https://p.scdn.co/mp3-preview/3d1f4e7938a250e489290ca27e1ebc9b511c1cf4?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Loma Vista
+artist(s): Family of the Year
+*****************************
+**********SONG INFO*********
+11
+song name: Short Change Hero
+preview song: https://p.scdn.co/mp3-preview/326c6ac01505ec37d81a5176353430c9ac0dcf04?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: The House That Dirt Built
+artist(s): The Heavy
+*****************************
+**********SONG INFO*********
+12
+song name: Hero
+preview song: null
+album: StarStruck
+artist(s): Christopher Wilde
+*****************************
+**********SONG INFO*********
+13
+song name: Rich
+preview song: https://p.scdn.co/mp3-preview/a8e201c35908e1a45e8022267f7738e92837c31d?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: HERO (Deluxe Edition)
+artist(s): Maren Morris
+*****************************
+**********SONG INFO*********
+14
+song name: Holding Out for a Hero - From "Footloose" Soundtrack
+preview song: https://p.scdn.co/mp3-preview/923bf281b264def1f4466ac48ab8bf1ceb1acd62?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Secret Dreams And Forbidden Fire
+artist(s): Bonnie Tyler
+*****************************
+**********SONG INFO*********
+15
+song name: Death Of A Hero
+preview song: https://p.scdn.co/mp3-preview/a5bfef3f6e8dd2f1d287de5d4ed257c45f6096d3?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Narrated For You
+artist(s): Alec Benjamin
+*****************************
+**********SONG INFO*********
+16
+song name: 80s Mercedes
+preview song: https://p.scdn.co/mp3-preview/5a1c0886edc7a2b25a3abd41ff5bb4aba6ad6098?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: HERO (Deluxe Edition)
+artist(s): Maren Morris
+*****************************
+**********SONG INFO*********
+17
+song name: HERO
+preview song: https://p.scdn.co/mp3-preview/f20609ec6ec73669742db3c3d8b4a2e044697363?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: RUSH
+artist(s): Monsta X
+*****************************
+**********SONG INFO*********
+18
+song name: Hero
+preview song: https://p.scdn.co/mp3-preview/cd7b8acda97c25226dfb902c5a1adae21391656c?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Hero
+artist(s): Said the Sky
+*****************************
+**********SONG INFO*********
+19
+song name: Hero
+preview song: https://p.scdn.co/mp3-preview/ae3561a6759730ba9598ea0e6bff242353874041?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Mixed Emotions
+artist(s): Luh Kel
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+11
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/1d50efde33a0dcbf6f55b862c5d0aafdd9f8e51e?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Go Country
+artist(s): Coffey Anderson
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/6df704bcaee02f82fefacbfaaca2ab8858119947?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: & Juliet (Original London Cast Recording)
+artist(s): Cassidy Janson
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=086abf9c105f4da5a2c5c2a5f8176f1e
+album: I Want It That Way
+artist(s): Yshop
+*****************************
